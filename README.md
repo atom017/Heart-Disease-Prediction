@@ -1,9 +1,5 @@
-<h1>Simple Chat App</h1>
+<h1>Heart Disease Prediction</h1>
 <h3><a href="https://share.streamlit.io/atom017/heart-disease-prediction/main/userInterface.py">DEMO APP</a></h3>
-
-
-
-
 
 
 
