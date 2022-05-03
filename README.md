@@ -14,7 +14,7 @@ This project is the final project of Simbolo 'Introduction to Artificial Intelli
 # Project Overview
 
 ## Screenshot
-![screenshot](https://github.com/atom017/simple-chat-app-client/blob/main/public/chat-app.png)
+![screenshot](https://github.com/atom017/Heart-Disease-Prediction/blob/main/images/heart-diseaseUI.png)
 
 
 ## Data Collecting
