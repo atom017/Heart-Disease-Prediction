@@ -15,6 +15,8 @@ This project is the final project of Simbolo 'Introduction to Artificial Intelli
 
 ## Data Collecting
 
+Heart disease dataset is collect from [Kaggle Datasets](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
+
 ## Data Pre-Processing
 
 ## Model Training
