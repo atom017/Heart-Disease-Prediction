@@ -1,4 +1,4 @@
 streamlit==1.8.0
-sklearn==0.22
+sklearn
 pickle
-numpy==1.22.3
+numpy
