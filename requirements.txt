@@ -1,4 +1,4 @@
-sklearn==0.24
+sklearn==1.2.0
 pickle
 pickle=3.8
 numpy=1.22.3
