@@ -1,4 +1,4 @@
-sklearn==1.2.0
+streamlit==1.2.0
+sklearn==0.24
 pickle
-pickle=3.8
-numpy=1.22.3
+numpy==1.22.3
