@@ -40,7 +40,10 @@ dataset.info()
 ```
 dataset.isnull().sum()
 ```
-
+- Other information
+```
+dataset.describe()
+```
 
 
 ## Evaluation
@@ -55,6 +58,8 @@ Evaluation of trained models
 ![ROC Curve](https://github.com/atom017/Heart-Disease-Prediction/blob/main/images/ROC%20curve.png)
 
 ## Contributors
+- [Khaing Hsu Thwe](https://github.com/atom017)
+- [Nay Lin Htun](https://github.com/Vincent-NHtun)
 
 ## Credits
 - https://www.educative.io/edpresso/data-normalization-in-python
