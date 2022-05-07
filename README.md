@@ -47,7 +47,7 @@ Evaluation of trained models
 | Random Forest  | 1  | 1  | 1  |
 
 **ROC Curve**
-![](https://github.com/atom017/Heart-Disease-Prediction/blob/main/images/ROC curve.png)
+![](https://github.com/atom017/Heart-Disease-Prediction/blob/main/images/ROC%20curve.png)
 
 ## Contributors
 
