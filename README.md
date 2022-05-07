@@ -17,11 +17,11 @@ This project is the final project of Simbolo 'Introduction to Artificial Intelli
 
 Heart disease dataset is collected from [Kaggle Datasets](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 
-<div >
-    <img src="https://github.com/atom017/Heart-Disease-Prediction/blob/main/images/countBySex.png" align="left" height="250" width="250" />
-    <img src="https://github.com/atom017/Heart-Disease-Prediction/blob/main/images/scatterplot.png" align="left" height="250" width="250"/>
-</div>
-<br />
+
+<img src="https://github.com/atom017/Heart-Disease-Prediction/blob/main/images/countBySex.png" align="left" height="250" width="250" />
+<img src="https://github.com/atom017/Heart-Disease-Prediction/blob/main/images/scatterplot.png" align="left" height="250" width="250"/>
+
+
 <br />
 
 
