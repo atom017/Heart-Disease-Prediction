@@ -13,15 +13,41 @@ This project is the final project of Simbolo 'Introduction to Artificial Intelli
 ![screenshot](https://github.com/atom017/Heart-Disease-Prediction/blob/main/images/heart-diseaseUI.png)
 
 
-## Data Collecting
+## Dataset
 
 Heart disease dataset is collect from [Kaggle Datasets](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 
+![](https://github.com/atom017/Heart-Disease-Prediction/blob/main/images/countBySEx.png)
+
+
+
 ## Data Pre-Processing
+-Getting the rows and columns
+```
+dataset.shape
+```
+-Getting dataset information
+```
+dataset.info()
+```
 
-## Model Training
+-Checking null values
+```
+dataset.isnull().sum()
+```
 
-## Model Evaluation
+
+
+## Evaluation
+Evaluation of trained models
+| Model  | Accuracy | Precision  | F1-Score |
+| ------------- | ------------- | ------------- | ------------- |
+| Logistic Regression  | 0.8049  | 0.7686  | 0.7854  |
+| Naive Bayes  | 0.7805  | 0.7727  | 0.7762  |
+| Random Forest  | 1  | 1  | 1  |
+
+**ROC Curve**
+![](https://github.com/atom017/Heart-Disease-Prediction/blob/main/images/ROC curve.png)
 
 ## Contributors
 
